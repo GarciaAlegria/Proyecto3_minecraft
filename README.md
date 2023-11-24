@@ -9,4 +9,6 @@ Para poder compilar el codigo se debe ejecutar el siguiente comando
 ```shell
 ./run.sh
 ```
-Al correr el programa se generará una carpeta build que mostrará el juego y se veria asi
+# Programa ejecutado
+Al correr el programa se generará una carpeta build que mostrará el diorama 3D y se veria asi
+![Proy3video](https://github.com/GarciaAlegria/Proyecto3_minecraft/assets/84537086/1df0e287-7abc-4162-b8f0-699bee7acea3)
